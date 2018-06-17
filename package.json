@@ -1,7 +1,7 @@
 {
-  "name": "preact-ts",
+  "name": "menu-enfants",
   "version": "1.0.0",
-  "description": null,
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
@@ -15,5 +15,5 @@
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
   },
-  "keywords": ["preact", "rxjs", "typescript", "scss"]
+  "keywords": []
 }

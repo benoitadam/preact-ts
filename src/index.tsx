@@ -1,18 +1,6 @@
 import './style'
 import { h, Component, render } from 'preact'
-import Comp1 from './comp1'
-import Comp2 from './comp2'
-
-export default class App extends Component<{}, {}> {
-  render(props, state) {
-    return (
-      <div>
-        <Comp1 />
-        <Comp2 />
-      </div>
-    )
-  }
-}
+import App from './app'
 
 render(<App />, document.body)
 
