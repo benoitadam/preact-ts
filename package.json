@@ -1,5 +1,5 @@
 {
-  "name": "menu-enfants",
+  "name": "preact-typescript-scss",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -15,5 +15,5 @@
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
   },
-  "keywords": []
+  "keywords": ["scss", "rxjs", "preact", "typescript"]
 }
